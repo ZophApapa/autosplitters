@@ -1,0 +1,2 @@
+# autosplitters
+Autosplitters for Livesplit
